@@ -16,9 +16,11 @@
 	<version>1.0-SNAPSHOT</version>
 	<packaging>gwt-lib</packaging>
 
+	<name>GWT: typedarrays</name>
+
 	<scm>
 		<developerConnection>scm:hg:ssh://hth@helixteamhub.cloud/JRS/projects/gwtTime/repositories/mercurial/gwt-typedarrays</developerConnection>
-		<connection>scm:hg:https://stasjresearchorg@helixteamhub.cloud/JRS/gwtTime/domino/repositories/mercurial/gwt-typedarrays</connection>
+		<connection>scm:hg:https://stasjresearchorg@helixteamhub.cloud/JRS/projects/gwtTime/repositories/mercurial/gwt-typedarrays</connection>
 		<url>https://helixteamhub.cloud/JRS/projects/gwtTime/repositories/gwt-typedarrays/tree/default</url>
 	    <tag>HEAD</tag>
     </scm>
