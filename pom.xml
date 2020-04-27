@@ -11,7 +11,7 @@
 
 	<groupId>org.jresearch.gwtproject</groupId>
 	<artifactId>typedarrays</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>gwt-lib</packaging>
 
 	<name>GWT: typedarrays</name>
@@ -20,7 +20,7 @@
 		<developerConnection>scm:hg:ssh://hth@helixteamhub.cloud/JRS/projects/gwtTime/repositories/mercurial/gwt-typedarrays</developerConnection>
 		<connection>scm:hg:https://stasjresearchorg@helixteamhub.cloud/JRS/projects/gwtTime/repositories/mercurial/gwt-typedarrays</connection>
 		<url>https://helixteamhub.cloud/JRS/projects/gwtTime/repositories/gwt-typedarrays/tree/default</url>
-	    <tag>1.0</tag>
+	    <tag>HEAD</tag>
     </scm>
 
 	<properties>
